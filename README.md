@@ -21,3 +21,14 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/code/code.png"></code>
 
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+```text
+JavaScript   43 hrs 53 mins  ███████████████████████▓░   95.27 % 
+JSON         1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+HTML         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Other        10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+TypeScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+```
+<!--END_SECTION:waka-->
+
