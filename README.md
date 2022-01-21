@@ -1,4 +1,4 @@
-## नमस्ते (Namaste), I am [Ayush Mandal](http://www.instagram.com/aayyusssh)
+## नमस्ते (Namaste), I am Ayush Mandal
 
 
 
