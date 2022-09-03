@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on my course
-- 🌱 I’m currently learning Data Structures,Alogrithms,MERN stack
+- 🌱 I’m currently studying Machine Learning,Data Science,MERN stack
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with data science
 - 💬 Ask me about ...Soft Skills
