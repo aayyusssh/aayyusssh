@@ -1,7 +1,7 @@
 ## नमस्ते (Namaste), I am Ayush Mandal
 
 - 💬 Ask me about ...Soft Skills
-- 📫 How to reach me: ... [![Gmail Badge](https://img.shields.io/badge/-ayush.mandal11@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayush.mandal11@gmail.com)](mailto:ayush.mandal11@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@aayyusssh-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/aayyusssh)](https://instagram.com/aayyusssh)
+- 📫 How to reach me: ... [![Gmail Badge](https://img.shields.io/badge/-ayush.mandal11@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayush.mandal11@gmail.com)](mailto:ayush.mandal11@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-@aayyusssh-F44747?style=flat-square&labelColor=F44747&logo=linkedin&logoColor=white&link=www.linkedin.com/in/ayush-mandal-10b407202)](www.linkedin.com/in/ayush-mandal-10b407202) [![Instagram Badge](https://img.shields.io/badge/-@aayyusssh-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/aayyusssh)](https://instagram.com/aayyusssh)
 - 😄 Pronouns: ...he/him
 - 
 **languages and tools:**
